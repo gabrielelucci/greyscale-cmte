@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Switchbar -->
+    <color name="switchbar_background_color">#616161</color>
+    <color name="switch_accent_color">#FAFAFA</color>
+    <!-- Accent -->
+    <color name="icon_accent">#9E9E9E</color>
+    <color name="icons_color">#9E9E9E</color>
+</resources>

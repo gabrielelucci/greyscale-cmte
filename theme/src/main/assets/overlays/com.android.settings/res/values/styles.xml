@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SettingsBase" parent="@android:style/Theme.Material.Settings">
+        <item name="android:navigationBarColor">?android:attr/colorPrimary</item>
+    </style>
+</resources>

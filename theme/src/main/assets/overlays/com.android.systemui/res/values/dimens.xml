@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dimensions -->
+    <dimen name="recents_task_view_rounded_corners_radius">2.0dip</dimen>
+
+</resources>
