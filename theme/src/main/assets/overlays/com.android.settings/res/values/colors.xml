@@ -2,9 +2,11 @@
 <resources>
 
     <!-- Switchbar -->
-    <color name="switchbar_background_color">#616161</color>
-    <color name="switch_accent_color">#FAFAFA</color>
-    <!-- Accent -->
-    <color name="icon_accent">#9E9E9E</color>
-    <color name="icons_color">#9E9E9E</color>
+    <color name="switchbar_background_color">@*common:color/primary_light</color>
+    <color name="switch_accent_color">@*common:color/icons</color>
+
+    <!-- Icons (?) -->
+    <color name="icon_accent">@*common:color/accent</color>
+    <color name="icons_color">@*common:color/accent</color>
+
 </resources>

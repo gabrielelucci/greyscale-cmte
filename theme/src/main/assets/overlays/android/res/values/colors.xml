@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-
 <resources>
 
+    <!-- Primary colors -->
+    <color name="material_blue_grey_800">@*common:color/primary_light</color>
+    <color name="material_blue_grey_900">@*common:color/primary</color>
+    <color name="material_blue_grey_950">@*common:color/primary_dark</color>
+
+    <!-- Secondary colors -->
+    <color name="material_deep_teal_200">@*common:color/accent_fallback</color>
+    <color name="material_deep_teal_500">@*common:color/accent</color>
+
+    <!-- ? -->
     <color name="material_grey_900">#ff212121</color>
     <color name="material_grey_850">#ff303030</color>
     <color name="material_grey_800">#ff424242</color>
@@ -10,13 +18,5 @@
     <color name="material_grey_300">#ffe0e0e0</color>
     <color name="material_grey_100">#fff5f5f5</color>
     <color name="material_grey_50">#fffafafa</color>
-
-    <color name="material_deep_teal_200">#ffe0e0e0</color>
-    <color name="material_deep_teal_500">#ff424242</color>
-
-    <color name="material_blue_grey_800">#ff212121</color>
-    <color name="material_blue_grey_900">#ff212121</color>
-    <color name="material_blue_grey_950">#ff212121</color>
-
 
 </resources>

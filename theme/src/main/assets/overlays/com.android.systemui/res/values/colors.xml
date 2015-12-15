@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <!-- Main colors -->
-    <color name="system_primary_color">#212121</color>
+    <color name="system_primary_color">@*common:color/primary</color>
+    <color name="system_secondary_color">@*common:color/primary</color>
     <color name="system_primary_color_translucent">#90212121</color>
-    <color name="system_secondary_color">#616161</color>
-    <color name="system_accent_color">#FAFAFA</color>
-    <!-- Battery saver -->
-    <color name="system_warning_color">#fff4511e</color>
+    <color name="system_accent_color">@*common:color/icons</color>
+    <color name="qs_subhead">#d50000</color>
+
     <!-- Volume pull down -->
-    <color name="volume_icon_color">#FAFAFA</color>
-    <color name="volume_settings_icon_color">#FAFAFA</color>
-    <color name="volume_slider_inactive">#9E9E9E</color>
-    <color name="volume_panel_background_color">@color/system_secondary_color</color>
+    <color name="volume_icon_color">@*common:color/icons</color>
+    <color name="volume_settings_icon_color">@*common:color/icons</color>
+    <color name="volume_slider_inactive">@*common:color/material_grey_700</color>
+    <color name="volume_panel_background_color">@*common:color/material_grey_850</color>
+
     <!-- Misc -->
-    <color name="tuner_icon_tint">#00ffffff</color>
+    <color name="tuner_icon_tint">@*common:color/transparent</color>
+    <color name="no_recent_apps">#bebebe</color>
+    <color name="system_warning_color">#BF360C</color>
 
 </resources>
