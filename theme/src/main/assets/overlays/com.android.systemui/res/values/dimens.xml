@@ -9,25 +9,27 @@
     <!-- radius of the corners of the material rounded rect background but negative-->
     <dimen name="notification_material_rounded_rect_radius_negative">-2dp</dimen>
 
-    <dimen name="status_bar_expanded_header_elevation">4dp</dimen>
-
     <!-- Volume panel -->
-    <dimen name="volume_panel_z">4dp</dimen>
+    <dimen name="volume_panel_z">8dp</dimen>
     <dimen name="volume_offset_top">4dp</dimen>
     <dimen name="volume_slider_interspacing">8dp</dimen>
 
     <!-- Recents overview -->
     <dimen name="recents_task_view_rounded_corners_radius">2.0dip</dimen>
 
+    <!-- Status bar header -->
+    <dimen name="notification_header_side_padding">0dp</dimen>
+    <dimen name="status_bar_expanded_header_elevation">4dp</dimen>
+
     <!-- QS Panel -->
     <dimen name="qs_brightness_padding_top">4dp</dimen> <!-- 6dp -->
+    <dimen name="qs_peek_height">0dp</dimen>            <!-- 8dp -->
+
     <!--
-    <dimen name="qs_peek_height">8dp</dimen>
     <dimen name="qs_tile_height">88dp</dimen>
     <dimen name="qs_tile_icon_size">24dp</dimen>
     <dimen name="qs_tile_text_size">12sp</dimen>
     <dimen name="qs_tile_divider_height">1dp</dimen>
-    <dimen name="qs_panel_padding">16dp</dimen>
     <dimen name="qs_dual_tile_height">112dp</dimen>
     <dimen name="qs_dual_tile_padding_vertical">8dp</dimen>
     <dimen name="qs_dual_tile_padding_horizontal">6dp</dimen>
@@ -36,6 +38,7 @@
     <dimen name="qs_tile_padding_below_icon">12dp</dimen>
     <dimen name="qs_tile_padding_bottom">16dp</dimen>
     <dimen name="qs_tile_spacing">4dp</dimen>
+    <dimen name="qs_panel_padding">16dp</dimen>
     <dimen name="qs_panel_padding_bottom">8dp</dimen>
     -->
 
