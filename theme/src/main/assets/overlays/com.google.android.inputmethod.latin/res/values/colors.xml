@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- DARK -->
+    <!-- DARK MATERIAL THEME -->
     <color name="key_background_lxx_dark">#212121</color>
     <color name="key_background_pressed_lxx_dark">#ff303030</color>
     <color name="key_text_color_lxx_dark">#ccffffff</color>
@@ -17,4 +17,21 @@
     <color name="gesture_floating_preview_color_lxx_dark">#df424242</color>
     <color name="suggested_word_background_selected_lxx_dark">#19ffffff</color>
     <color name="emoji_tab_page_indicator_background_lxx_dark">#ff21272b</color>
+    <!-- LIGHT MATERIAL THEME -->
+    <color name="key_background_lxx_light">#212121</color>
+    <color name="key_background_pressed_lxx_light">#ff303030</color>
+    <color name="key_text_color_lxx_light">#ccffffff</color>
+    <color name="suggested_word_color_lxx_light">#ccffffff</color>
+    <color name="key_functional_text_color_lxx_light">#ccffffff</color>
+    <color name="key_text_inactive_color_lxx_light">#80ffffff</color>
+    <color name="key_hint_letter_color_lxx_light">#80ffffff</color>
+    <color name="language_on_spacebar_text_color_lxx_light">#b3ffffff</color>
+    <color name="highlight_color_lxx_light">#ffffffff</color>
+    <color name="auto_correct_color_lxx_light">#ffffffff</color>
+    <color name="typed_word_color_lxx_light">#d9ffffff</color>
+    <color name="gesture_trail_color_lxx_light">#ff616161</color>
+    <color name="sliding_key_input_preview_color_lxx_light">#b3424242</color>
+    <color name="gesture_floating_preview_color_lxx_light">#df424242</color>
+    <color name="suggested_word_background_selected_lxx_light">#19ffffff</color>
+    <color name="emoji_tab_page_indicator_background_lxx_light">#ff21272b</color>
 </resources>
