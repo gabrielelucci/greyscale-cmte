@@ -7,8 +7,8 @@ android {
         applicationId "it.lucci.cm.greyscaletheme"
         minSdkVersion 23
         targetSdkVersion 23
-        versionCode 104
-        versionName "r4"
+        versionCode 105
+        versionName "r5"
     }
     buildTypes {
         release {
