@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Primary colors -->
-    <color name="material_blue_grey_800">@*common:color/primary_light</color>
+    <color name="material_blue_grey_800">@*common:color/primary_lighter</color>
     <color name="material_blue_grey_900">@*common:color/primary</color>
     <color name="material_blue_grey_950">@*common:color/primary_dark</color>
 

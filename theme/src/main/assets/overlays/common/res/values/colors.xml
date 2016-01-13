@@ -5,7 +5,7 @@
     <!-- Primary -->
 	<color name="primary">@*common:color/material_grey_900</color>
 	<color name="primary_dark">@*common:color/material_grey_900</color>
-	<color name="primary_light">@*common:color/material_grey_850</color>
+    <color name="primary_lighter">@*common:color/material_grey_850</color>
 
     <!-- Accent and secondary -->
 	<color name="accent">@*common:color/material_grey_700</color>
