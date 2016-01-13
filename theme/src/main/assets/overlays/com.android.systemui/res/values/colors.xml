@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Main colors -->
-    <color name="system_primary_color">@*common:color/material_grey_850</color>
+    <color name="system_primary_color">@*common:color/primary_lighter</color>
     <color name="system_secondary_color">@*common:color/primary</color>
     <color name="system_primary_color_translucent">#90212121</color>
     <color name="system_accent_color">@*common:color/icons</color>
@@ -12,7 +12,7 @@
     <color name="volume_icon_color">@*common:color/icons</color>
     <color name="volume_settings_icon_color">@*common:color/icons</color>
     <color name="volume_slider_inactive">@*common:color/material_grey_700</color>
-    <color name="volume_panel_background_color">@*common:color/material_grey_850</color>
+    <color name="volume_panel_background_color">@*common:color/primary_lighter</color>
 
     <!-- Misc -->
     <color name="tuner_icon_tint">@*common:color/transparent</color>
