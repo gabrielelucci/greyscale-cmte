@@ -22,6 +22,6 @@
     <!-- Drawer -->
     <color name="drawer_item_textcolor">#fff</color>
     <color name="drawer_item_default">@*common:color/primary</color>
-    <color name="drawer_item_pressed">@*common:color/primary_light</color>
+    <color name="drawer_item_pressed">@*common:color/primary_lighter</color>
     <color name="drawer_divider_line">#ffffff</color>
 </resources>

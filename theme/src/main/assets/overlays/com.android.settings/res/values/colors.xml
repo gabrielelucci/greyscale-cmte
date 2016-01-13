@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Switchbar -->
-    <color name="switchbar_background_color">@*common:color/primary_light</color>
+    <color name="switchbar_background_color">@*common:color/primary_lighter</color>
     <color name="switch_accent_color">@*common:color/icons</color>
 
     <!-- Icons (?) -->
