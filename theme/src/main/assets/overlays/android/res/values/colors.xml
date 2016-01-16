@@ -10,6 +10,10 @@
     <color name="material_deep_teal_200">@*common:color/accent_fallback</color>
     <color name="material_deep_teal_500">@*common:color/accent</color>
 
+    <color name="system_notification_accent_color">@*common:color/accent</color>
+    <color name="battery_saver_mode_color">#fff4511e</color>
+    <!-- deep orange 600 -->
+
     <!-- ? -->
     <color name="material_grey_900">#ff212121</color>
     <color name="material_grey_850">#ff303030</color>
