@@ -5,7 +5,7 @@
     <!-- Primary -->
 	<color name="primary">@*common:color/material_grey_900</color>
 	<color name="primary_dark">@*common:color/material_grey_900</color>
-	<color name="primary_lighter">@*common:color/material_grey_850</color>
+    <color name="primary_lighter">@*common:color/material_grey_800</color>
 
     <!-- Accent and secondary -->
 	<color name="accent">@*common:color/material_grey_700</color>
@@ -14,7 +14,7 @@
 
     <!-- Backgrounds and cards -->
     <color name="background">@*common:color/material_grey_50</color>
-    <color name="cards">@*common:color/white</color>
+    <color name="cards">@*common:color/material_grey_800</color>
 
     <!-- Icons and text-->
 	<color name="primary_text">@*common:color/material_grey_900</color>

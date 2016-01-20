@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Main colors -->
-    <color name="system_primary_color">@*common:color/primary_lighter</color>
+    <color name="system_primary_color">@*common:color/cards</color>
     <color name="system_secondary_color">@*common:color/primary</color>
     <color name="system_primary_color_translucent">#90212121</color>
     <color name="system_accent_color">@*common:color/icons</color>
