@@ -14,7 +14,7 @@
 
     <!-- Backgrounds and cards -->
     <color name="background">@*common:color/material_grey_50</color>
-    <color name="cards">@*common:color/white</color>
+    <color name="cards">@*common:color/material_grey_800</color>
 
     <!-- Icons and text-->
 	<color name="primary_text">@*common:color/material_grey_900</color>
