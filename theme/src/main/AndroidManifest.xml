@@ -28,7 +28,7 @@
 
     <application
         android:hasCode="false"
-        android:icon="@drawable/ic_launcher"
+        android:icon="@mipmap/ic_launcher"
         android:label="@string/theme_name"/>
 
 </manifest>
