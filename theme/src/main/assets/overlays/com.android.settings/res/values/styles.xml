@@ -3,4 +3,8 @@
     <style name="Theme.SettingsBase" parent="@android:style/Theme.Material.Settings">
         <item name="android:navigationBarColor">@*common:color/primary_dark</item>
     </style>
+
+    <style name="TextAppearance.CategoryTitle" parent="@android:style/TextAppearance.Material.Small">
+        <item name="android:textStyle">bold</item>
+    </style>
 </resources>
