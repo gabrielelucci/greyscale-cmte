@@ -17,7 +17,7 @@
     <!-- Category -->
     <color name="dashboard_category_background_color">@drawable/dashboard_category_background</color>
     <color name="dashboard_background_color">@*common:color/background</color>
-    <color name="category_title_color">@*common:color/primary_text</color>
+    <color name="category_title_color">@*common:color/primary</color>
 
     <!-- Miscellaneous -->
     <color name="running_processes_apps_ram">@*common:color/accent</color>
