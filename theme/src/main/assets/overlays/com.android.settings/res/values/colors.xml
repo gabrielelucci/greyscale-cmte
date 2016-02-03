@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!-- Theme -->
+    <color name="primary">@*common:color/primary</color>
+    <color name="primary_dark">@*common:color/primary_dark</color>
+    <color name="accent">@*common:color/accent</color>
+
     <!-- Switchbar -->
     <color name="switchbar_background_color">@*common:color/primary_lighter</color>
     <color name="switch_accent_color">@*common:color/icons</color>
@@ -8,5 +13,13 @@
     <!-- Icons (?) -->
     <color name="icon_accent">@*common:color/accent</color>
     <color name="icons_color">@*common:color/accent</color>
+
+    <!-- Category -->
+    <color name="dashboard_category_background_color">@drawable/dashboard_category_background</color>
+    <color name="dashboard_background_color">@*common:color/background</color>
+    <color name="category_title_color">@*common:color/primary_text</color>
+
+    <!-- Miscellaneous -->
+    <color name="running_processes_apps_ram">@*common:color/accent</color>
 
 </resources>

@@ -6,10 +6,10 @@
     <dimen name="dashboard_padding_end">8.0dip</dimen>
     <dimen name="dashboard_padding_top">8.0dip</dimen>
     <dimen name="dashboard_padding_bottom">0.0dip</dimen>
-    <dimen name="dashboard_radius_bottom_left">2.0dip</dimen>
-    <dimen name="dashboard_radius_bottom_right">2.0dip</dimen>
-    <dimen name="dashboard_radius_top_left">2.0dip</dimen>
-    <dimen name="dashboard_radius_top_right">2.0dip</dimen>
+
+    <!-- Category card radius -->
+    <dimen name="dashboard_radius">2.0dip</dimen>
+
     <!-- Category -->
     <dimen name="dashboard_category_elevation">2.0dip</dimen>
     <dimen name="dashboard_category_title_margin_start">16.0dip</dimen>
