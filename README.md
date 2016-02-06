@@ -15,6 +15,7 @@ Get it on the [Play Store](https://play.google.com/store/apps/details?id=it.lucc
   * AOSP Keyboard 
   * Google Keyboard
   * Trebuchet 
+  * Downloads Provider
   * CMUpdater
   * Theme Chooser
 * Wallpaper (by Unsplash)
