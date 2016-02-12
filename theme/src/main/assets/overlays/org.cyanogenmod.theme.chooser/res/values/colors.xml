@@ -1,4 +1,5 @@
 <resources>
+
     <color name="detailedview_pager_background">#ffeeeeee</color>
     <color name="title_author_background">#ffffff</color>
     <color name="offwhite">#e9e8e8</color>
