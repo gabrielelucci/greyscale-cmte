@@ -16,8 +16,10 @@ Get it on the [Play Store](https://play.google.com/store/apps/details?id=it.lucc
   * Google Keyboard
   * Trebuchet 
   * Downloads Provider
+  * Calculator
   * CMUpdater
   * Theme Chooser
+  * AudioFX
 * Wallpaper (by Unsplash)
 
 ## License
