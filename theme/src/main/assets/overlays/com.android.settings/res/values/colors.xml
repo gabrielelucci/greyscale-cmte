@@ -21,5 +21,6 @@
 
     <!-- Miscellaneous -->
     <color name="running_processes_apps_ram">@*common:color/accent</color>
+    <color name="theme_accent">@*common:color/accent</color>
 
 </resources>
