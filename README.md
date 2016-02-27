@@ -4,7 +4,8 @@ A theme for the CyanogenMod theme engine.
 
 Greyscale is a simple and minimal theme built for CyanogenMod 13.x, it features an AOSP-like design and a Material Grey palette. This project aims to be a playground and a solid template for my future themes (and yours hopefully).
 
-Get it on the [Play Store](https://play.google.com/store/apps/details?id=it.lucci.cm.greyscaletheme)!
+<a href="https://play.google.com/store/apps/details?id=it.lucci.cm.greyscaletheme"><img src="http://www.android.com/images/brand/get_it_on_play_logo_large.png"/></a>
+<a href="https://f-droid.org/repository/browse/?fdid=it.lucci.cm.greyscaletheme"><img src="https://f-droid.org/wiki/images/0/06/F-Droid-button_get-it-on.png" alt="F-Droid"></a>
 
 ## What's themed
 * Status bar
