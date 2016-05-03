@@ -1,0 +1,23 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 23
+    buildToolsVersion '23.0.3'
+    defaultConfig {
+        applicationId "it.lucci.cm.greyscalethemedark"
+        minSdkVersion 23
+        targetSdkVersion 23
+        versionCode 113
+        versionName "r13"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+        }
+    }
+    lintOptions {
+        abortOnError false
+    }
+}
+
+dependencies {
+}

@@ -1,1 +1,1 @@
-include ':theme'
+include ':theme', ':themedark'
