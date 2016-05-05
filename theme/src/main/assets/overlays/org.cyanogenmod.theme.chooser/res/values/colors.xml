@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <color name="detailedview_pager_background">#ffeeeeee</color>
@@ -25,4 +26,5 @@
     <color name="drawer_item_default">@*common:color/primary</color>
     <color name="drawer_item_pressed">@*common:color/primary_lighter</color>
     <color name="drawer_divider_line">#ffffff</color>
+
 </resources>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <!-- Dark Material Theme -->
     <color name="key_background_lxx_dark">@*common:color/primary</color>
     <color name="key_background_pressed_lxx_dark">#ff303030</color>
@@ -17,6 +18,7 @@
     <color name="gesture_floating_preview_color_lxx_dark">#df424242</color>
     <color name="suggested_word_background_selected_lxx_dark">#19ffffff</color>
     <color name="emoji_tab_page_indicator_background_lxx_dark">@*common:color/primary</color>
+
     <!-- Light Material Theme -->
     <color name="key_background_lxx_light">@*common:color/primary</color>
     <color name="key_background_pressed_lxx_light">#ff303030</color>
@@ -34,6 +36,7 @@
     <color name="gesture_floating_preview_color_lxx_light">#df424242</color>
     <color name="suggested_word_background_selected_lxx_light">#19ffffff</color>
     <color name="emoji_tab_page_indicator_background_lxx_light">@*common:color/primary</color>
+
     <!-- Misc -->
     <color name="notification_accent_color">@*common:color/accent</color>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <resources>
+
     <color name="action_bar_background">@*common:color/primary_dark</color>
     <color name="audiofx_background_color">#303030</color>
     <color name="eq_preset_label_text_color">#ff808080</color>
@@ -35,4 +35,5 @@
     <color name="cb_shader_alpha">#22ffffff</color>
 
     <color name="window_background">@color/black</color>
+
 </resources>
