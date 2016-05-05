@@ -13,12 +13,13 @@
     <color name="disabled">#61616161</color>
 
     <!-- Backgrounds and cards -->
-    <color name="background">@*common:color/material_grey_50</color>
-    <color name="cards">@*common:color/white</color>
+    <color name="background">@*common:color/material_grey_850</color>
+    <color name="cards">@*common:color/material_grey_800</color>
 
     <!-- Icons and text-->
-    <color name="primary_text">#dd000000</color>
-    <color name="secondary_text">#89000000</color>
+    <color name="primary_text">#ffffff</color>
+    <color name="secondary_text">#b2ffffff</color>
+    <color name="disabled_text">#7fffffff</color>
     <color name="icons">@*common:color/white</color>
     <color name="divider">#1f000000</color>
 
@@ -27,6 +28,7 @@
         87% -> DD
         70% -> B2
         54% -> 89
+        50% -> 7F
         38% -> 61
         30% -> 4C
         20% -> 1f
