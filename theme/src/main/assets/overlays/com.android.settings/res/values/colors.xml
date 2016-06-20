@@ -5,7 +5,6 @@
     <color name="primary">@*common:color/primary</color>
     <color name="primary_dark">@*common:color/primary_dark</color>
     <color name="accent">@*common:color/accent</color>
-    <color name="theme_accent">@*common:color/accent</color>
 
     <!-- Switchbar -->
     <color name="switchbar_background_color">@*common:color/primary_lighter</color>
