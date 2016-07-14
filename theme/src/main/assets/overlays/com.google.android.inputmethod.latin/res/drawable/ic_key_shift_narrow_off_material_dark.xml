@@ -6,8 +6,8 @@
         android:viewportHeight="16">
 
     <path
-        android:strokeColor="@color/theme_keys_color"
-        android:strokeWidth="2"
-        android:pathData="M12,1.29785 L21.2366,8.98779 L17.0416,8.98779 L17.0416,14.9978 L6.9583,14.9978
-L6.9583,8.98779 L2.76328,8.98779 Z" />
+        android:fillColor="@color/theme_action_keys_off_dark_color"
+        android:strokeWidth="1"
+        android:pathData="M6,16 C7,16,18,16,18,16 L18,10 L24,10 L12,0
+L0,10 L6,10 L6,16" />
 </vector>

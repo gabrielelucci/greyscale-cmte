@@ -6,7 +6,7 @@
         android:viewportHeight="24">
 
     <path
-        android:fillColor="@color/theme_keys_color"
+        android:fillColor="@color/theme_action_keys_on_dark_color"
         android:strokeWidth="2"
         android:strokeLineCap="round"
         android:pathData="M13.8646,2.9978 C11.5612,2.9978,9.25851,3.87781,7.50108,5.63782 L1.13561,11.9978

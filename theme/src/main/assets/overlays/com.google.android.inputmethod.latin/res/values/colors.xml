@@ -1,50 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <!-- Macro -->
-    <color name="theme_background_color">@*common:color/material_grey_900</color>
-    <color name="theme_sugestion_bar_color">@*common:color/material_grey_850</color>
-    <color name="theme_dashboard_color">@*common:color/material_grey_850</color>
-    <color name="theme_keys_color">#fff</color>
-
-    <!-- Keyboard background color -->
-    <color name="base_material_dark_theme">@color/theme_background_color</color>
-
-    <color name="key_pressed_material_dark_theme">#1affffff</color>
-    <color name="label_function_key_material_dark_theme">#ccff0000</color>
-
-    <!-- Suggested words bar background color -->
-    <color name="candidate_material_dark_theme">@color/theme_sugestion_bar_color</color>
-    <color name="more_candidates_separator_material_dark_theme">#1affffff</color>
-    <color name="keyboard_separator_material_dark_theme">#1affffff</color>
-
-    <color name="header_bottom_separator_material_dark_theme">#0dffffff</color>
-
-    <color name="inline_composing_text_correction">#ff777777</color>
-    <color name="inline_composing_text_correction_material_dark_theme">#e6c9d1cb</color>
-    <color name="inline_composing_text_determined_syllable">#8833b5e5</color>
-    <color name="inline_composing_text_undecoded">#77ff4444</color>
-
-    <!-- Bordered keys theme colors -->
-    <color name="key_action_bordered_dark_theme">#cc80cbc4</color>
-    <color name="key_action_pressed_bordered_dark_theme">#ff80cbc4</color>
-    <color name="key_bordered_dark_theme">#1fffffff</color>
-    <color name="key_dark_bordered_dark_theme">#0dffffff</color>
-    <color name="key_dark_pressed_bordered_dark_theme">#3dffffff</color>
-    <color name="key_pressed_bordered_dark_theme">#3dffffff</color>
-
-    <!-- Popup colors-->
-    <color name="popup_background_material_dark_theme">@*common:color/material_grey_800</color>
-    <color name="popup_confirmation_text">#ffffffff</color>
-    <color name="popup_overlay_background">#88333333</color>
-    <color name="label_popup_pressed_material_dark_theme">@*common:color/accent</color>
-    <color name="label_popup_pressed_material_light_theme">#ff80cbc4</color>
-
-    <!-- ? -->
-    <color name="ColorChordedTrackMaterialDarkTheme">@*common:color/accent</color>
-    <color name="ColorChordedTrackMaterialLightTheme">#ff4db6ac</color>
-
-    <!-- Gesture trail color -->
-    <color name="ColorGestureTrackMaterialDarkTheme">@*common:color/accent</color>
-    <color name="ColorGestureTrackMaterialLightTheme">#ff4db6ac</color>
+    <color name="theme_action_keys_off_dark_color">#7fffffff</color>
+    <color name="theme_action_keys_on_dark_color">#ffffffff</color>
 
 </resources>
