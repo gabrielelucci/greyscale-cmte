@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><!-- QS card background -->
-<inset xmlns:android="http://schemas.android.com/apk/res/android" android:insetTop="8dp">
-    <shape>
-        <solid android:color="@color/system_primary_color" />
-        <corners android:radius="@dimen/notification_material_rounded_rect_radius" />
-    </shape>
-</inset>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- QS Background rectangle - we wrap it in a layer-list to give it some top margin -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:top="@dimen/qs_top_inset">
+        <shape android:shape="rectangle" >
+            <solid android:color="@color/system_primary_color"/>
+            <corners android:radius="@dimen/notification_material_rounded_rect_radius"/>
+        </shape>
+    </item>
+</layer-list>

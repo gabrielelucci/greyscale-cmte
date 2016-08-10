@@ -41,8 +41,7 @@
     <color name="notification_material_background_color">@*common:color/cards</color>
     <color name="notification_material_background_dimmed_color">#ddffffff</color>
     <color name="notification_material_background_low_priority_color">#ddffffff</color>
-    <color name="notification_material_background_media_default_color">@color/system_primary_color
-    </color>
+    <color name="notification_material_background_media_default_color">@color/system_primary_color</color>
     <color name="notification_icon_color">@*common:color/accent</color>
     <color name="notification_ripple_untinted_color">#28000000</color>
     <color name="notification_ripple_color_low_priority">#30000000</color>
@@ -53,5 +52,6 @@
     <color name="notification_guts_title_color">#FFFFFFFF</color>
     <color name="notification_guts_text_color">#b2FFFFFF</color>
     <color name="notification_guts_btn_color">#FFFFFFFF</color>
+
 
 </resources>
