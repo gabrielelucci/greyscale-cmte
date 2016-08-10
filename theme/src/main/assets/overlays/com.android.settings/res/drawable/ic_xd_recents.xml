@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- BlissROM icon -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="24dp"
+        android:height="24dp"
+        android:viewportWidth="24"
+        android:viewportHeight="24">
+
+    <path
+        android:fillColor="?android:attr/colorAccent"
+        android:pathData="M7,19 L17,19 L17,4 L7,4 L7,19 Z M2,17 L6,17 L6,6 L2,6 L2,17 Z M18,6 L18,17
+L22,17 L22,6 L18,6 Z" />
+    <path
+        android:pathData="M0,0 L24,0 L24,24 L0,24 Z" />
+</vector>
