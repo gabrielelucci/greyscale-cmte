@@ -26,7 +26,7 @@
     <color name="pad_operator_background_color">@*common:color/primary</color>
 
     <!-- Background color for the advanced pad. -->
-    <color name="pad_advanced_background_color">@*common:color/material_grey_800</color>
+    <color name="pad_advanced_background_color">@*common:color/material_color_800</color>
 
     <!-- Text color for a button in a pad. -->
     <color name="pad_button_text_color">#FFF</color>

@@ -2,17 +2,17 @@
 <resources>
 
     <!-- Primary -->
-	<color name="primary">@*common:color/material_grey_900</color>
-	<color name="primary_dark">@*common:color/material_grey_900</color>
-    <color name="primary_lighter">@*common:color/material_grey_800</color>
+	<color name="primary">@*common:color/material_color_900</color>
+	<color name="primary_dark">@*common:color/material_color_900</color>
+    <color name="primary_lighter">@*common:color/material_color_800</color>
 
     <!-- Accent and secondary -->
-	<color name="accent">@*common:color/material_grey_700</color>
-	<color name="accent_fallback">@*common:color/material_grey_200</color>
+	<color name="accent">@*common:color/material_color_700</color>
+	<color name="accent_fallback">@*common:color/material_color_200</color>
     <color name="disabled">#61616161</color>
 
     <!-- Backgrounds and cards -->
-    <color name="background">@*common:color/material_grey_50</color>
+    <color name="background">@*common:color/material_color_50</color>
     <color name="cards">@*common:color/white</color>
 
     <!-- Icons and text-->

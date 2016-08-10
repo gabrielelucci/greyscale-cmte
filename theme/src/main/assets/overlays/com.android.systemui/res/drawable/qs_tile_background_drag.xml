@@ -19,5 +19,5 @@
 <shape xmlns:android="http://schemas.android.com/apk/res/android"
        android:shape="oval">
     <solid
-        android:color="@*common:color/material_grey_500" />
+        android:color="@*common:color/material_color_500" />
 </shape>

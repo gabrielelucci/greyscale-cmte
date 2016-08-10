@@ -15,9 +15,9 @@
     <color name="apply_button_text_color_enabled">#ffffff</color>
     <color name="apply_button_text_color_disabled">#bbbbbb</color>
 
-    <color name="apply_button_progress_color">@*common:color/material_grey_500</color>
-    <color name="apply_button_default_color">@*common:color/material_grey_700</color>
-    <color name="apply_button_pressed_color">@*common:color/material_grey_800</color>
+    <color name="apply_button_progress_color">@*common:color/material_color_500</color>
+    <color name="apply_button_default_color">@*common:color/material_color_700</color>
+    <color name="apply_button_pressed_color">@*common:color/material_color_800</color>
 
     <color name="designed_for_color">#ff8888</color>
 

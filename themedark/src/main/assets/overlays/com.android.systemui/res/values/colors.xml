@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Main colors -->
-    <color name="system_primary_color">@*common:color/material_grey_800</color>
+    <color name="system_primary_color">@*common:color/material_color_800</color>
     <color name="system_secondary_color">@*common:color/primary</color>
     <color name="system_accent_color">@*common:color/accent_fallback</color>
 
@@ -10,7 +10,7 @@
     <color name="volume_icon_color">@*common:color/icons</color>
     <color name="volume_settings_icon_color">@*common:color/icons</color>
     <color name="volume_slider_active">@color/system_accent_color</color>
-    <color name="volume_slider_inactive">@*common:color/material_grey_500</color>
+    <color name="volume_slider_inactive">@*common:color/material_color_500</color>
     <color name="volume_panel_background_color">@*common:color/primary_lighter</color>
 
     <!-- Misc -->
