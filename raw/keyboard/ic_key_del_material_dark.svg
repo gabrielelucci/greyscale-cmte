@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 24.000001 24.000001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ic_key_del_material_dark.svg"
+   inkscape:export-filename="/home/gabriele/Projects/greyscale-cmte/theme/src/main/assets/overlays/com.google.android.inputmethod.latin/res/drawable-xxhdpi-v4/ic_key_del_material_dark.png"
+   inkscape:export-xdpi="270"
+   inkscape:export-ydpi="270">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4386">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4388"
+         d="m 22.894642,1040.3622 a 8.8946413,8.8946451 0 0 1 -8.894641,8.8946 8.8946413,8.8946451 0 0 1 -8.8946416,-8.8946 8.8946413,8.8946451 0 0 1 8.8946416,-8.8946 8.8946413,8.8946451 0 0 1 8.894641,8.8946 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4390">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4392"
+         d="m 21.000002,1040.3622 a 9.000001,9.0000048 0 0 1 -9.000001,9 9.000001,9.0000048 0 0 1 -9.0000014,-9 9.000001,9.0000048 0 0 1 9.0000014,-9 9.000001,9.0000048 0 0 1 9.000001,9 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#151515"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="29.916667"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     units="px"
+     showguides="false"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="955"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:bbox-paths="true"
+     inkscape:snap-grids="true"
+     inkscape:object-paths="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox-midpoints="true">
+    <inkscape:grid
+       empspacing="2"
+       type="xygrid"
+       id="grid4136" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Guide"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <image
+       transform="translate(0,-1028.3621)"
+       y="1028.3622"
+       x="-4.7683707e-07"
+       id="image4283"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ bWFnZVJlYWR5ccllPAAAA2tpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6 eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1 NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJo dHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlw dGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEu MC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVz b3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1N Ok9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDozMDJFMjQzQkU4MjI2ODExODIyQUNFOEFFMDUz OTAwNCIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDowOTQxNTc0RDA0QUExMUU0ODJFRkNGODg0 RTA1NTZENyIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDowOTQxNTc0QzA0QUExMUU0ODJFRkNG ODg0RTA1NTZENyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgKE1hY2ludG9z aCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDplOTkzOGYx ZS0xNDQyLTQzYTktOWYzZC0xZGI1NTUxYzNkNGQiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6 MzAyRTI0M0JFODIyNjgxMTgyMkFDRThBRTA1MzkwMDQiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwv cmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4XMfEzAAAD4UlEQVR42uyd vWsUURTF3y6mCH6AEBur2IlWCtFGBRvtXBCCH7VEu/VP8E9ItNLeKFppY6/p/EgVtXK3ioVYKYRg cL3X3YFh2dl5M/vuffdlzoEDCZswy/klZ2benZ1pDQYDB8VTGxEAAABAAAAAEAAAAAQAAAABAABA ejqgsI1j5MvkU+QF8lzDMt4j/yBvkTfI3/MvtoQX466QO0qgUxCH/Y78gvxHGsB18lVkPlFfyY/4 v0NqH7CE8KfqJHlZaid8hHwLGZfqEvm4BIDb5IPI1+sI9EJoAOfJZ5Ctt06HBMDVcwOZVtJCSACo nhrnYaEAnEP1xFuK4Oq5iSjjAUD1RASA6okIANUTGQCqJyKAJVRPPADaaz075DVyX3GbvK2Ho22b A6BZPVn4n8mrShD6o21taUCoCkCzerLwe7nvpSFk4Wehfxu9hx0LADSrZzx8pwBhPPxMPUkIbYPV UxS+JISi8MUhtA1Wz5Mp4UtA6JWEn/+5xzEAaB/1XCPPe/6nrHrAKgvV9y+b31MnBgDtE64T5G4F CGs1IVQNvzt6b6oAYp1wSUMwEX4ZgNjDdSkIZsIvA2BhrSc0BFPhTwNgaa0nFARz4RcBsLjMPCsE k+GzJl2aeM/ZXemsE6SzGv4kAFw9d5xtVYXgrIY/XkGpTLiq1pHZ8McB8FHPIZeGqkAwG34eQIoT rhAQooafAUh5uD4LhOjhZwBSqp5QEEyEnwHYc+mrpfQ7IgCek38lHH7f+a3njx8dac2YSwH8Jj9t UPimIGRHQZvk9w0K3wyE/HlASlUUInwTEPIAUqmiXoXw51218WY/JoAUqqjOYlzX6c2YZwZguYrq LilrzZiDAbBYRbOu55uFUDQRs1RFoYYpJiFMmwlbqKLQkyxzEKYB4Cpa30fhm4RQdl3Qp0hVJD3D NQPB58o47SrSGqCbgOADQLuKXju9MWJVCK9iANCuohWPUEOu5/tCWCTfjQVAs4rKwpUYppRB4Nfv uzAz6NoANKuoKGTJSVYRhJAXAMwEQLuKsrAXFcIvCls0fFadm/bx/PgB+bASCN758SdTOk5vhtsb HQysSIZfFwDrrMQOqYmq+0l5rqIPiC8eANYzl/YwP3kAsdeKGg8AVWQAAKrIAABUUWQAqCIDAFBF 9bQbEgCqqLp+hr53NFfRR+TqrS8Sd09fRxV56S95QwJAyldba+oteVvqCRp8XdEbZFwofoTJS/5C +iE+F93wlvZzyPy/VB/ik+moGz6ugz+F2cTHWO3y0Q7vcN3wMVbb+RdbeKb8/jkRgwAAACAAAAAI AAAAAgAAgAAAAKAS/RNgACGTQzI8pa00AAAAAElFTkSuQmCC "
+       preserveAspectRatio="none"
+       height="24.000002"
+       width="24.000002" />
+  </g>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1028.3622)"
+     style="display:inline">
+    <path
+       style="opacity:1;fill:#fafafa;fill-opacity:0.49803922;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 13.86464,1031.3622 c -2.303382,0 -4.6060933,0.8795 -6.3635192,2.6368 l -6.3654736,6.3636 6.3654736,6.3635 c 3.5148952,3.5148 9.2121982,3.5148 12.7270392,0 3.514939,-3.5148 3.514912,-9.2122 0,-12.7271 -1.757443,-1.7573 -4.060137,-2.6368 -6.36352,-2.6368 z m -2.828231,4.758 2.828231,2.8282 2.828231,-2.8282 1.414116,1.4142 -2.828232,2.8282 2.828232,2.8282 -1.414116,1.4141 -2.828231,-2.8283 -2.828231,2.8283 -1.4141148,-1.4141 2.8282308,-2.8282 -2.8282308,-2.8282 1.4141148,-1.4142 z"
+       id="path4413"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/gabriele/Projects/greyscale-cmte/theme/src/main/assets/overlays/com.google.android.inputmethod.latin/res/drawable-xxhdpi/sym_keyboard_delete_lxx_dark.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+  </g>
+</svg>
