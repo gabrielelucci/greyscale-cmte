@@ -33,10 +33,15 @@ CyanogenMod 12.x is not supported due to some assets relying on Android 6 API. F
 * CM14 support
 
 ## Download
-You can download the latest release of the theme from [here](https://github.com/gabrielelucci/greyscale-cmte/releases/latest) or from either the PlayStore™ or the main F-Droid repository!
+You can download the latest release of the theme from [here](https://github.com/gabrielelucci/greyscale-cmte/releases/latest) or on either Google Play™ or the main F-Droid repository!
+
 <br/>
-<a href="https://play.google.com/store/apps/details?id=it.lucci.cm.greyscaletheme"><img src="http://www.android.com/images/brand/get_it_on_play_logo_large.png"/></a>
-<a href="https://f-droid.org/repository/browse/?fdid=it.lucci.cm.greyscaletheme"><img src="https://f-droid.org/wiki/images/0/06/F-Droid-button_get-it-on.png" alt="F-Droid"></a>
+<a href='https://play.google.com/store/apps/details?id=it.lucci.cm.greyscaletheme'>
+<img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="100" />
+</a>
+<a href="https://f-droid.org/repository/browse/?fdid=it.lucci.cm.greyscaletheme">
+ <img alt='Get it on F-Droid' src="https://f-droid.org/badge/get-it-on.png" height="100" />
+</a>
 
 ## License
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br/>
