@@ -26,11 +26,11 @@ I don't plan theming 3rd party apps others than Google Keyboard, sorry. I just d
 CyanogenMod 12.x is not supported due to some assets relying on Android 6 API. Future support is not planned at the moment since less and less people are using CM12.x, and it's simply not worth to scrap some fancy features of this theme just to make it installable on older versions. Yet, you're free to modify the theme yourself and make it work on CM12.x devices.
 
 ## TODO
-* dark variant (work in progress, see module themedark)
-* add some nice custom fonts
-* theme battery icon
-* Arcus support
-* CM14 support
+- [x] dark variant (work in progress, see module themedark)
+- [ ] add some nice custom fonts
+- [ ] theme battery icon 
+- [ ] Arcus support
+- [ ] CM14 support
 
 ## Download
 You can download the latest release of the theme from [here](https://github.com/gabrielelucci/greyscale-cmte/releases/latest) or on either Google Play™ or the main F-Droid repository!
